@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientProfile {
+  header "MIMIKEdgeClientProfile-Swift.h"
+  requires objc
+}
