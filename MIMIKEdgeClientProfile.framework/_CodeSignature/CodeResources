@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientProfile-Swift.h</key>
 		<data>
-		/Z8SbkAJlgosHohekYSK7zvinIg=
+		tB3oyEyaQ2qFMUO1M0AbbMjbiLU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6arFnsuIXuBgTgh76z7/PJ7qKOQ=
+		Qt51z8hXGsH+hN8qp9uFEW1uEr8=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		jRKCJDhnqWuyvVh81PPUDb7taPo=
+		5ROftagnOsosdi80W5yCrbe8njE=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		TcVE6y9sydWalYuWJ94twLQeagc=
+		+Gax3/PCeYma/bnGP/SlVgzijpU=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		jRKCJDhnqWuyvVh81PPUDb7taPo=
+		5ROftagnOsosdi80W5yCrbe8njE=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		TcVE6y9sydWalYuWJ94twLQeagc=
+		+Gax3/PCeYma/bnGP/SlVgzijpU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +39,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			irdqUyiTBxKU2qVVMpGZM8RLDjEpPbaJqWwWMQi/pc8=
+			ybXG2N2Xy7ZVaBm+9CvPSqw/epAoBAfu2kZpbg06NAQ=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UqVDE5bpUuB7ixs6eeytrxx51Jas3b3NJ29b7nUDUgc=
+			QR0+1Hu+qe2vL/DJ9Q78+5IiQ2UVSJTsc8KGzr1EAy4=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AmxmKAj+m3vpLydVgkyRonclDdf/64Jlk0aJh83oPL8=
+			4eK0JGdk4FBZeumH339xZ9kyN/bAHcrQmvsOzY3PNt4=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UqVDE5bpUuB7ixs6eeytrxx51Jas3b3NJ29b7nUDUgc=
+			QR0+1Hu+qe2vL/DJ9Q78+5IiQ2UVSJTsc8KGzr1EAy4=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AmxmKAj+m3vpLydVgkyRonclDdf/64Jlk0aJh83oPL8=
+			4eK0JGdk4FBZeumH339xZ9kyN/bAHcrQmvsOzY3PNt4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
