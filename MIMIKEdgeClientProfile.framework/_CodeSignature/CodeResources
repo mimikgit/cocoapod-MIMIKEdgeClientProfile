@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientProfile-Swift.h</key>
 		<data>
-		tB3oyEyaQ2qFMUO1M0AbbMjbiLU=
+		HWy2gxbLjJnJ5cx9Xwj57USfRWI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Qt51z8hXGsH+hN8qp9uFEW1uEr8=
+		PRNkusPX0LyRgc9yBFPTYF3rbLc=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		5ROftagnOsosdi80W5yCrbe8njE=
+		l7WxUsI7e8UIgbYEl1isve/inAc=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+Gax3/PCeYma/bnGP/SlVgzijpU=
+		A4f5sPjvT6sjqhSeGsnauKQMJ5M=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		5ROftagnOsosdi80W5yCrbe8njE=
+		l7WxUsI7e8UIgbYEl1isve/inAc=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+Gax3/PCeYma/bnGP/SlVgzijpU=
+		A4f5sPjvT6sjqhSeGsnauKQMJ5M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +39,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ybXG2N2Xy7ZVaBm+9CvPSqw/epAoBAfu2kZpbg06NAQ=
+			isfW0dfQmpqebbVmqkJFhXP71FMx5ozejSOC2reMAFU=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QR0+1Hu+qe2vL/DJ9Q78+5IiQ2UVSJTsc8KGzr1EAy4=
+			XgGOr/f6rS379szWpYYKKnIdoF21uQK4hD2dZgeiV4M=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eK0JGdk4FBZeumH339xZ9kyN/bAHcrQmvsOzY3PNt4=
+			eGcRrNtA6Os8bRjYRNsz37K6GvOejbjtyZ92AbzHt1s=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QR0+1Hu+qe2vL/DJ9Q78+5IiQ2UVSJTsc8KGzr1EAy4=
+			XgGOr/f6rS379szWpYYKKnIdoF21uQK4hD2dZgeiV4M=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eK0JGdk4FBZeumH339xZ9kyN/bAHcrQmvsOzY3PNt4=
+			eGcRrNtA6Os8bRjYRNsz37K6GvOejbjtyZ92AbzHt1s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
