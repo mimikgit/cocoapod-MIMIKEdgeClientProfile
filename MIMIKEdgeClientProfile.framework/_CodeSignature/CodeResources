@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientProfile-Swift.h</key>
 		<data>
-		HWy2gxbLjJnJ5cx9Xwj57USfRWI=
+		EnjObXKKPMQTyGu6pLmAresp0Xw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PRNkusPX0LyRgc9yBFPTYF3rbLc=
+		rJwlXZkmKDRVOfSYLSQS7LO/IMg=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		l7WxUsI7e8UIgbYEl1isve/inAc=
+		3BrbRS8G0jRYipaqwpdydZuZVOc=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		A4f5sPjvT6sjqhSeGsnauKQMJ5M=
+		t6t8UXSDGUSKxz207XPAIRu3MI8=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		l7WxUsI7e8UIgbYEl1isve/inAc=
+		3BrbRS8G0jRYipaqwpdydZuZVOc=
 		</data>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		A4f5sPjvT6sjqhSeGsnauKQMJ5M=
+		t6t8UXSDGUSKxz207XPAIRu3MI8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +39,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			isfW0dfQmpqebbVmqkJFhXP71FMx5ozejSOC2reMAFU=
+			6AZP+kSS83mn8JdbDPhbwUtEvY0h5ji3CmMe3Azb5Hc=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XgGOr/f6rS379szWpYYKKnIdoF21uQK4hD2dZgeiV4M=
+			rYhnUyoJum+R85NMc3ZCqyZCX/tVRUbDqB36sTIyscE=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGcRrNtA6Os8bRjYRNsz37K6GvOejbjtyZ92AbzHt1s=
+			Q+i5gi78x+tUO3ZmZUwuL78k6ac7QoOOP++gIMgqa54=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XgGOr/f6rS379szWpYYKKnIdoF21uQK4hD2dZgeiV4M=
+			rYhnUyoJum+R85NMc3ZCqyZCX/tVRUbDqB36sTIyscE=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientProfile.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGcRrNtA6Os8bRjYRNsz37K6GvOejbjtyZ92AbzHt1s=
+			Q+i5gi78x+tUO3ZmZUwuL78k6ac7QoOOP++gIMgqa54=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
