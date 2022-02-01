@@ -2,7 +2,20 @@
 
  MIMIKEdgeClientProfile service library can help you interact with the following mimik services:
 
- * Profile
+ * `Profile`
+
+ using the following APIs:
+
+ * `userProfile`
+ * `updateUserProfile`
+ * `addUserProfileNotificationsConsent`
+ * `deleteUserProfileNotificationsConsent`
+ * `updateUserProfileAttributes`
+ * `updateUserProfileProperties`
+ * `updateUserSSN`
+ * `findUserWith`
+
+ Please see the in-code documenation in Xcode for more details about each API.
 
 ## Requirements
 ```
@@ -19,18 +32,39 @@ source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/mimikgit/cocoapod-edge-specs.git'
 ```
 
+For Xcode 13.2.x compatibility
+
+```swift
+pod 'MIMIKEdgeClientProfile', '~> 13.2.1'
+```
+
 For Xcode 12.5.x compatibility
 
 ```swift
 pod 'MIMIKEdgeClientProfile', '~> 12.5.1'
 ```
 
-For Xcode 13.0.x compatibility
+## Tutorial
 
-```swift
-pod 'MIMIKEdgeClientProfile', '~> 13.0.1'
-```
+Visit this [tutorial](https://devdocs.mimik.com/tutorials/03-index) to learn more about the mimik client library and how to integrate it into your iOS project.
 
+## mimik client and service libraries
+
+Don't forget to checkout all mimik client and service libraries [available on Github](https://github.com/search?q=cocoapod-MIMIKEdgeClient)
+
+Direct links:
+ 
+ * [MIMIKEdgeClient](https://github.com/mimikgit/cocoapod-MIMIKEdgeClient)
+ 
+ * [MIMIKEdgeClientIdentity](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientIdentity)
+ * [MIMIKEdgeClientProfile](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientProfile)
+ * [MIMIKEdgeClientPeer](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientPeer)
+ * [MIMIKEdgeClientThumbnail](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientThumbnail)
+ 
+ * [MIMIKEdgeClientAssessment](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientAssessment)
+ * [MIMIKEdgeClientNotification](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientNotification)
+ * [MIMIKEdgeClientTracker](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientTracker)
+ * [MIMIKEdgeClientContentCache](https://github.com/mimikgit/cocoapod-MIMIKEdgeClientContentCache)
 
 ## Author
 
